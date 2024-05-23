@@ -9,5 +9,5 @@ public interface PojetDao {
   public List<Projet>projetsParMC(String mc);
   public Projet getProjet(long id);
   public Projet update(Projet pr);
-  public void deleteProduit(long id);
+  public void deleteProduit(int id);
 }

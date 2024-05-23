@@ -57,5 +57,11 @@ public class Projet {
 	public void setBudget(double budget) {
 		this.budget = budget;
 	}
+	@Override
+	public String toString() {
+		return "Projet [id_project=" + id_project + ", nom=" + nom + ", description=" + description + ", date_debut="
+				+ date_debut + ", date_fin=" + date_fin + ", budget=" + budget + "]";
+	}
+	
 	 
 }
