@@ -61,7 +61,7 @@ public class ImplProjetDao implements PojetDao {
 
 	@Override
 	public Projet getProjet(long id) {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 

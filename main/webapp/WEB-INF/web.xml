@@ -4,7 +4,7 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-  <!-- <servlet>
+  <servlet>
   	 <servlet-name>Servlet</servlet-name>
   	<display-name>ControleurServlet</display-name>
   	<description></description>
@@ -13,5 +13,5 @@
   <servlet-mapping>
   	<servlet-name>ControleurServlet</servlet-name>
   	<url-pattern>/*.java</url-pattern>
-  </servlet-mapping>-->
+  </servlet-mapping>
 </web-app>
